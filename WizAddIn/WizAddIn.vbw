@@ -1,0 +1,7 @@
+AddIn = 110, 110, 708, 556, Z
+modAddToIni = 66, 66, 529, 512, 
+modUtils = 110, 110, 764, 435, 
+clsRegistry = 132, 132, 730, 578, 
+modGlobals = 176, 176, 824, 613, 
+modMRUList = 44, 44, 642, 414, 
+modLineNumbers = 26, 23, 563, 468, 
